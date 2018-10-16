@@ -29,7 +29,7 @@ At a high level, computers do four things:
 They can do the last of these in many different ways,
 including through a keyboard and mouse, touch screen interfaces, or using speech recognition systems.
 While touch and voice interfaces are becoming more commonplace, most interaction is still
-done using traditional screens, mice, touchpads and keyboards.
+done using traditional screens, mice, touch-pads and keyboards.
 
 We are all familiar with **graphical user interfaces** (GUI): windows, icons and pointers.
 They are easy to learn and fantastic for simple tasks where a vocabulary consisting of
@@ -40,19 +40,19 @@ If you wish to do complex, purpose-specific things it helps to have a richer mea
 of expressing your instructions to the computer. It doesn't need to be complicated or
 difficult, just a vocabulary of commands and a simple grammar for using them.
 
-This is what the shell provides - a simple language and a **command-line interface**
+This is what the command prompt provides - a simple language and a **command-line interface**
 to use it through.
 
 The heart of a command-line interface is a **read-evaluate-print loop** (REPL). It is called
-so because when you type a command and press <kbd>Return</kbd> the shell
+so because when you type a command and press <kbd>Return</kbd> the command prompt
 reads your command,
 evaluates (or "executes") it,
 prints the output of your command,
 loops back and waits for you to enter another command.
 
-### The Shell
+### The Command Prompt
 
-A shell is a program like any other.
+A command prompt is a program like any other.
 What's special about it is that its job is to run other programs
 rather than to do calculations itself.
 The most popular Unix shell is Bash,
