@@ -76,7 +76,7 @@ bash-3.2$
 
 The first line shows only a **prompt**,
 indicating that the shell is waiting for input.
-Your shell may use different text for the prompt. Most importantly:
+Your command prompt may use different text for the prompt. Most importantly:
 when typing commands, either from these lessons or from other sources,
 *do not type the prompt*, only the commands that follow it.
 
