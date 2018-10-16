@@ -8,15 +8,14 @@ objectives:
 - "Explain how the command prompt relates to the keyboard, the screen, the operating system, and users' programs."
 - "Explain when and why command-line interfaces should be used instead of graphical interfaces."
 keypoints:
-- "Explain the steps in the shell's read-run-print cycle."
+- "Explain the steps in the command prompt's read-run-print cycle."
 - "Most commands take flags (options) which begin with a `-`."
 - "Identify the actual command, flags, and filenames in a command-line call."
-- "Explain the steps in the shell's read-run-print cycle."
 - "Demonstrate the use of tab completion and explain its advantages."
 keypoints:
-- "A shell is a program whose primary purpose is to read commands and run other programs."
-- "The shell's main advantages are its high action-to-keystroke ratio, its support for automating repetitive tasks, and its capacity to access networked machines."
-- "The shell's main disadvantages are its primarily textual nature and how cryptic its commands and operation can be."
+- "A command prompt is a program whose primary purpose is to read commands and run other programs."
+- "The command prompt's main advantages are its high action-to-keystroke ratio, its support for automating repetitive tasks, and its capacity to access networked machines."
+- "The command prompt's main disadvantages are its primarily textual nature and how cryptic its commands and operation can be."
 ---
 ### Background
 At a high level, computers do four things:
